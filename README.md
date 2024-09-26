@@ -1,2 +1,4 @@
-# Sales-Report
-😊 Happy to share my first power bi dashboard. This project helped me demonstrate my data analysis and visualization skills using Power BI. It also helped me learn new techniques and tools that enhanced my productivity and creativity.
+# Sales Report 
+
+# Dashboard
+![Screenshot 2024-01-11 110440](https://github.com/Royalsivm/Customer-Churn-Analysis-Power-Bi-/assets/153700930/10463f1d-fb43-4d1a-a0e6-2693c8e10ce4)
